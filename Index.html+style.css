@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dogs: A True Companion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcc00;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+        }
+        header h1 {
+            font-size: 3rem;
+        }
+        section {
+            padding: 2rem;
+            margin: 0 5%;
+        }
+        h2 {
+            color: #ff6600;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 300px;
+            margin: 1rem;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Dogs: A True Companion</h1>
+    <p>Celebrating the joy, loyalty, and love that dogs bring to our lives.</p>
+</header>
+
+<section>
+    <h2>Why Dogs Are My Favorite Animal</h2>
+    <p>Dogs have been my loyal companions throughout my life. From my grandma's black lab Bell to my energetic golden labradoodle Ditka, dogs have always been there to cheer me up and help me clear my mind. They are more than pets—they are family.</p>
+</section>
+
+<section>
+    <h2>Different Dog Breeds</h2>
+    <p>One of the most unique breeds I have experienced is the golden labradoodle. A mix of Labrador and Poodle, this breed is known for being friendly, energetic, and intelligent. Ditka, my golden labradoodle, is the perfect example of these traits.</p>
+</section>
+
+<section class="gallery">
+    <h2>Gallery</h2>
+    <img src="ditka1.jpg" alt="Ditka enjoying the outdoors">
+    <img src="bell1.jpg" alt="Bell, my grandma's black lab">
+</section>
+
+<section>
+    <h2>Fun Facts About Dogs</h2>
+    <ul>
+        <li>Dogs can sense your emotions and often respond to how you feel.</li>
+        <li>They can hear frequencies humans can’t, making them great at detecting sounds.</li>
+        <li>Dogs are capable of understanding over 150 words and commands.</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Contact me for more dog stories or to share your own at doglover@example.com!</p>
+</footer>
+
+</body>
+</html>
